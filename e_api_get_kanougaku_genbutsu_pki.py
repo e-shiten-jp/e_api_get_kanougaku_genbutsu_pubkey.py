@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
-# Copyright (c) 2021 Tachibana Securities Co., Ltd. All rights reserved.
+# Copyright (c) 2026 Tachibana Securities Co., Ltd. All rights reserved.
 
 # 2021.07.08,   yo.
 # 2022.10.20 reviced,   yo.
 # 2025.07.27 reviced,   yo.
+# 2026.05.30 reviced,   yo
 #
 # 立花証券ｅ支店ＡＰＩ利用のサンプルコード
 #
